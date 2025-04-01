@@ -17,3 +17,5 @@ Become familiar with the application and it's characteristics. Use your favorite
 In the call, we will introduce new code to the application, and you will comment on issues with the endpoint. Please be ready to share your screen in the call with us with the application ready to run. 
 
 **Bonus:** Spot any issues or potential improvements you notice in the application while you're familiarizing yourself and make note of them for our call. We would love to see your input in how to make this application better.
+
+Note from Richard White - this repo is forked from NinjaRMM/dundie_awards.  I didn't create any of this initial code and I'm only modifying it to showcase my skills and to sharpen them.  Please note that the only changes I've personally done are owned by me, including Wiki documentation, issues, and code from pull requests.
