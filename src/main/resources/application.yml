@@ -37,6 +37,9 @@ spring:
       static-locations: file:src/main/resources/static/
       cache:
         period: 0
+  security:
+    user:
+      password: testpw
 
 database:
-  reload_data: false 
+  reload_data: false
